@@ -39,20 +39,20 @@ features                                  :
     description                           : Record acceleration using your device's in-built accelerometer
     fontawesome_icon_name                 : magic
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Live Analysis
+    description                           : Results in real-time
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Record Results
+    description                           : Record and save accelerometer readings to your device.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Export Results
+    description                           : Share your records and analysis
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Simple to use
+    description                           : Allows you to take quick measurements on site
     fontawesome_icon_name                 : adjust
 
   - title                                 : Feature List
